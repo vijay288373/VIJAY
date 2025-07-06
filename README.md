@@ -1,96 +1,86 @@
-<!-- AESTHETIC, VIBRANT & PROFESSIONAL -->
+<!-- 🌈 COLOURFUL & AESTHETIC PROFILE - Vijay Kumar 🌈 -->
 
+<!-- BACKGROUND BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Vijay%20Kumar&fontSize=50&fontAlign=50&desc=AI%20%7C%20Data%20Science%20%7C%20Python%20Enthusiast&descAlign=50&fontColor=fff&descSize=22"/>
+</p>
+
+<!-- COLOURFUL GRADIENT BLOCK (simulated background) -->
 <div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=190&section=header&text=Vijay%20Kumar&fontSize=47&fontAlign=50&fontColor=FFF" alt="banner"/>
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=900&color=9E7CF6&center=true&vCenter=true&width=500&lines=AI+%7C+Data+Science+%7C+Python+Enthusiast;Turning+Data+into+Stories;Always+learning%2C+always+growing!"/>
-
+  <img src="https://github.com/akshaybabloo/gradient-navbar/blob/main/images/gradient-navbar.gif?raw=true" width="90%"/>
 </div>
+
+<!-- AESTHETIC DATA ANALYST AT DESK IMAGE -->
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-4.0.3&auto=format&fit=crop&w=900&q=80" width="500" style="border-radius: 24px; box-shadow: 0 4px 20px #22d3ee60;" alt="Data Analyst at Desk with Multiple Monitors"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=900&color=F59E42&center=true&vCenter=true&width=500&lines=AI+%7C+Data+Science+%7C+Python+Enthusiast;Turning+Data+into+Stories;Always+learning%2C+always+growing!" alt="Typing SVG" />
+</p>
 
 ---
 
 ## 🎓 About Me
 
-- 🧑‍🎓 **B.Tech Student** (Artificial Intelligence & Data Science)
-- 🏎️ **Quick learner** and highly adaptable
-- 💡 **Curious about AI, Data Science, and Analytics**
-- 🧩 Love to solve problems and visualize data
+- 🧑‍🎓 **B.Tech in Artificial Intelligence & Data Science**
+- ⚡ **Quick Learner** | 🌿 **Adaptable** | 🧠 **Analytical Thinker**
+- 🐍 **Python is my happy place**
+- 📊 **Power BI** & **Tableau** for data stories
+- 🚀 Passionate about **AI, ML, and all things Data**
 
 ---
 
-## 💼 Skills & Tools
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tableau,powerbi,git,github,html,css,vscode" height="50"/>
+</p>
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Data%20Science-0076B6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-AI-8B5CF6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-Problem%20Solving-4ADE80?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-Adaptability-FFB6C1?style=for-the-badge"/>
-
+  <img src="https://img.shields.io/badge/Quick%20Learning-14B8A6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Adaptability-6366F1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Visualization-06B6D4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Problem%20Solving-F59E42?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-8B5CF6?style=for-the-badge"/>
 </div>
 
 ---
 
-## 🌈 My Vibe
-
 <div align="center">
-
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3FxdjI0aXJkNnA1d2N0d3FqMGdka2NnM3U2MWw0ZmpxNzN2czIwbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Dh5q0sShxgp13CzXnO/giphy.gif" alt="aesthetic-ai-data" width="400" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&weight=700&size=22&pause=1200&width=460&lines=%F0%9F%94%A5+Living+on+the+cutting+edge+of+tech!;%F0%9F%8C%9F+Data+is+my+playground!;%F0%9F%A4%96+Turning+curiosity+into+code!" />
+  <br>
+  <i>"Learning never exhausts the mind." — Leonardo da Vinci</i>
+  <br>
+  <i>"Data is the new oil, but insight is the new gold." — Unknown</i>
 </div>
 
-> _"Learning never exhausts the mind."_  
-> — Leonardo da Vinci
-
-> _"Data is the new oil, but insight is the new gold."_  
-> — Unknown
-
 ---
 
-## 📊 What I Do
-
-- 📈 Visualize, analyze, and **tell stories with data**
-- 🤖 Explore the power of AI and Machine Learning
-- 🐍 Build and automate using **Python**
-
----
-
-## 📫 Let's Connect
+## 📈 GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijay288373&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vijay288373&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijay288373&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</div>
 
-  <a href="https://www.linkedin.com/in/vijay-kumar-66798b278/">
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/vijay-kumar-66798b278/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;
   <a href="mailto:vijay.email@example.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
 </div>
 
 ---
 
-<div align="center">
-
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vijay288373&theme=radical&hide_border=true"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=vijay288373&show_icons=true&theme=radical&hide_border=true"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijay288373&layout=compact&theme=radical&hide_border=true"/>
-  
-</div>
-
----
-
-<div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=footer"/>
-  
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer"/>
+</p>
